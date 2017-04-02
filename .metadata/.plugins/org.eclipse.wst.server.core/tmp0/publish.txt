@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Apr 01 21:50:54 CST 2017
+org.eclipse.jst.jee.server\:/binary\:F\:\\majiangWork\\server\\weipaiManage\\WebRoot\\WEB-INF\\lib\\spring\\spring-web-4.0.0.RELEASE.jar=WEB-INF/lib/spring/spring-web-4.0.0.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\majiangWork\\server\\weipaiManage\\WebRoot\\WEB-INF\\lib\\spring-web-4.0.0.RELEASE.jar=WEB-INF/lib/spring-web-4.0.0.RELEASE.jar
